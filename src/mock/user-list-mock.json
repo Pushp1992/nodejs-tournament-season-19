@@ -1,0 +1,32 @@
+{
+    "statusmessage": "Successful",
+    "statusCode": 1,
+    "data": {
+        "userList": [
+            {
+                "id": 1,
+                "name": "pushp",
+                "email": "pushp@gmail.com",
+                "UPI_linked": true,
+                "wallet_balance": "INR 100",
+               "currentLocation": "Sarjapur"
+            },
+            {
+                "id": 2,
+                "name": "priya",
+                "email": "priya@gmail.com",
+                "UPI_linked": true,
+                "wallet_balance": "INR 100",
+               "currentLocation": "Marathalli"
+            },
+            {
+                "id": 3,
+                "name": "rahul",
+                "email": "rahul@gmail.com",
+                "UPI_linked": true,
+                "wallet_balance": "INR 100",
+               "currentLocation": "HSR"
+            }
+        ]
+    }
+}

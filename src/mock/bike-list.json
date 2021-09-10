@@ -1,0 +1,32 @@
+{
+    "statusmessage": "Successful",
+    "statusCode": 1,
+    "data": {
+        "availableBikeList": [
+            {
+                "id": 1,
+                "name": "Bounce-pep",
+                "code": "12560",
+                "type": "EV",
+                "fitness": "good",
+                "currentLocation": "Sarjapur"
+            },
+            {
+                "id": 1,
+                "name": "Bounce-pep+",
+                "code": "12562",
+                "type": "Petrol",
+                "fitness": "unfit",
+                "currentLocation": "marathalli"
+            },
+            {
+                "id": 1,
+                "name": "Bounce-pep+",
+                "code": "12562",
+                "type": "Petrol",
+                "fitness": "unfit",
+                "currentLocation": "HSR"
+            }
+        ]
+    }
+}
